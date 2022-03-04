@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zvitakobra
 - 👀 I’m interested in all things related to programming
-- 🌱 I’m currently learning about Typescript, Node, NestJS, Express, React
+- 🌱 I’m currently learning about Node, Express, React, Typescript
 
 <!---
 zvitakobra/zvitakobra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
